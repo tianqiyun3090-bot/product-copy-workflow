@@ -1,0 +1,6 @@
+interface:
+  display_name: "产品文案工作流"
+  short_description: "从产品信息卖点痛点资料整理到多渠道宣传文案与视频口播稿"
+  default_prompt: "使用 $product-copy-workflow，基于我的产品资料，按步骤完成产品宣传文案。"
+policy:
+  allow_implicit_invocation: true
